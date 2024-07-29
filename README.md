@@ -2,9 +2,9 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Praveen kumar M </font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/praveenkumar588rk/" target="_blank" rel="noreferrer">Praveen</a> is a passionate WEB Developer from India,Learning new technology</font></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r&label=Profile%20views&color=0e75b6&style=flat" alt="r" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=r&label=Profile%20views&color=0e75b6&style=flat" alt="r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r" alt="r" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r" alt="r" /></a> </p>-->
 
 <!-- Schedule a 1-on-1 Call Section -->
 <!--<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
