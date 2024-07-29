@@ -1,5 +1,7 @@
+![Md-Ij Banner-2](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Praveen kumar M </font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Praveenkumar M </font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/praveenkumar588rk/" target="_blank" rel="noreferrer">Praveen</a> is a passionate WEB Developer from India,Learning new technology</font></h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=r&label=Profile%20views&color=0e75b6&style=flat" alt="r" /> </p>
