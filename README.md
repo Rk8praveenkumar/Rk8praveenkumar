@@ -4,6 +4,15 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Praveenkumar M </font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/praveenkumar588rk/" target="_blank" rel="noreferrer">Praveen</a> is a passionate WEB Developer from India,Learning new technology</font></h3>
 
+
+### 👩‍💻 &nbsp; A Few Thicks About Me :) 
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science./
+🌱 &nbsp;I'm on track for learning more about  Web Development.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at praveenkarthik588@gmail.com! I'll try to respond as soon as I can.
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=r&label=Profile%20views&color=0e75b6&style=flat" alt="r" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r" alt="r" /></a> </p>-->
@@ -64,3 +73,10 @@
 <a href="https://www.leetcode.com/praveenkumar588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praveenkumar588" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/praveenka4vlf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="praveenka4vlf" height="30" width="40" /></a>
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk8praveenkumar&show_icons=true&locale=en&layout=compact" alt="rk8praveenkumar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rk8praveenkumar&show_icons=true&locale=en" alt="rk8praveenkumar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rk8praveenkumar&" alt="rk8praveenkumar" /></p>
